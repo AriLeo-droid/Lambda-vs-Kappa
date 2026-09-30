@@ -169,6 +169,10 @@ Proyecto/
 
 ## Autoría:
 
-Zea García Danae (investigación)
+Zea García Danae (investigación de arquitectura Kappa)
 
 Hernández Huerta Ari Leonardo (Implementación de código)
+
+Carmona Capula Andrés Tadeo (Investigación de arquitectura Lambda)
+
+Ayala Carrasco Said Giuliano (Investigación de arquitectura Lambda)
